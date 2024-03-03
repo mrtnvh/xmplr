@@ -9,10 +9,9 @@ module.exports = {
 	overrides: [
 		{
 			files: 'tests/(unit|integration)/**',
-			extends: ['plugin:jest/recommended'],
+			rules: {
+				'import/no-extraneous-dependencies': ['error', { devDependencies: ['**/*.{test,spec}.ts'] }],
+			},
 		},
 	],
-	settings: {
-		'import/core-modules': ['@jest/globals'],
-	},
 };

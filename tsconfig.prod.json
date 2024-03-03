@@ -4,5 +4,5 @@
 		"declaration": true
 	},
 	"include": ["src/**/*.ts"],
-	"exclude": ["node_modules/**", "tests/**/*.ts"]
+	"exclude": ["node_modules/**", "tests/**/*.ts", "src/**/*.{test,spec}.ts"]
 }

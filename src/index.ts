@@ -1,4 +1,2 @@
-import add from './add.js';
-import multiply from './multiply.js';
-
-export const addAndMultiply = (first: number, second: number) => multiply(add(first, second), second);
+export { default as add } from './add/add.js';
+export { multiply } from './multiply/multiply.js';

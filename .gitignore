@@ -105,3 +105,6 @@ dist
 
 # Generated fixture build
 tests/e2e/__fixture__/app
+
+# Tap
+.tap

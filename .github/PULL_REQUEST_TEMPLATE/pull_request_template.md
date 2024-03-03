@@ -1,7 +1,7 @@
 ### Requirements for Adding, Changing, or Removing a Feature
 
-* Fill out the template below. Any Pull Request that does not include enough information to be reviewed in a timely manner may be closed at the maintainers' discretion.
-* More information regarding creating Pull Requests can be found in [CONTRIBUTING](https://github.com/vanhoofmaarten/xmplr/blob/master/CONTRIBUTING.md#creating-a-pull-request).
+- Fill out the template below. Any Pull Request that does not include enough information to be reviewed in a timely manner may be closed at the maintainers' discretion.
+- More information regarding creating Pull Requests can be found in [CONTRIBUTING](https://github.com/vanhoofmaarten/xmplr/blob/master/CONTRIBUTING.md#creating-a-pull-request).
 
 ### Issue
 

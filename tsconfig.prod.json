@@ -1,13 +1,8 @@
 {
-    "extends": "./tsconfig.json",
-    "compilerOptions": {
-        "declaration": true
-    },
-    "include": [
-        "src/**/*.ts",
-    ],
-    "exclude": [
-        "node_modules/**",
-        "tests/**/*.ts"
-    ]
+	"extends": "./tsconfig.json",
+	"compilerOptions": {
+		"declaration": true
+	},
+	"include": ["src/**/*.ts"],
+	"exclude": ["node_modules/**", "tests/**/*.ts"]
 }
